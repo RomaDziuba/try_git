@@ -1,0 +1,3 @@
+[submodule "phpObjectDB"]
+	path = phpObjectDB
+	url = git@github.com:RomaDziuba/phpObjectDB.git
